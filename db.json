@@ -119,136 +119,6 @@
     },
     {
       "id": 10,
-      "name": "Lucy",
-      "sex": 1,
-      "descripton": "obedient",
-      "status": "waiting for adoption",
-      "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/47975159/3/?bust=1592933129&width=720",
-      "age": 2,
-      "sterilized": 1,
-      "breed": "pitbull",
-      "shelter": "Refugio Animal Chiclayo",
-      "created_at": "12/01/2020"
-    },
-    {
-      "id": 11,
-      "name": "Firulais",
-      "sex": 0,
-      "descripton": "naughty",
-      "status": "in process",
-      "image": "https://t4.ftcdn.net/jpg/02/77/80/99/240_F_277809933_6srCGtQq5IkAj5ycXBRdw9tTcHZk6H63.jpg",
-      "age": 4,
-      "sterilized": 0,
-      "breed": "creole",
-      "shelter": "Refugio Animal Chiclayo",
-      "created_at": "14/03/2020"
-    },
-    {
-      "id": 12,
-      "name": "Rico",
-      "sex": 0,
-      "descripton": "loving",
-      "status": "waiting for adoption",
-      "image": "https://herdingpups.com/wp-content/uploads/2019/07/7.24.19-rh1-catahoula-male-creole-1.jpg",
-      "age": 1,
-      "sterilized": 0,
-      "breed": "creole",
-      "shelter": "Refugio Animal Chiclayo",
-      "created_at": "08/08/2019"
-    },
-    {
-      "id": 13,
-      "name": "Cabo",
-      "sex": 0,
-      "descripton": "naughty",
-      "status": "waiting for adoption",
-      "image": "https://images.squarespace-cdn.com/content/v1/5cd5c1f7fd6793142e10b8c7/1559670674020-Q5WRZKCGGYTEI6OE90BP/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/Bear.jpg",
-      "age": 3,
-      "sterilized": 0,
-      "breed": "creole",
-      "shelter": "Refugio Animal Chiclayo",
-      "created_at": "15/11/2019"
-    },
-    {
-      "id": 14,
-      "name": "Lucia",
-      "sex": 1,
-      "descripton": "playful",
-      "status": "waiting for adoption",
-      "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/39449742/2/?bust=1513081927&width=667",
-      "age": 2,
-      "sterilized": 1,
-      "breed": "creole",
-      "shelter": "Refugio Animal Chiclayo",
-      "created_at": "17/05/2020"
-    },
-    {
-      "id": 15,
-      "name": "Rosco",
-      "sex": 0,
-      "descripton": "naughty and playful",
-      "status": "waiting for adoption",
-      "image": "https://www.zoesanimalrescue.org/wp-content/uploads/2017/05/thumbnail-3-e1495646963515.jpg",
-      "age": 2,
-      "sterilized": 0,
-      "breed": "samoñedo",
-      "shelter": "Refugio Animal Chiclayo",
-      "created_at": "10/09/2020"
-    },
-    {
-      "id": 16,
-      "name": "Rocky",
-      "sex": 0,
-      "descripton": "obedient and playful",
-      "status": "in process",
-      "image": "https://www.zoesanimalrescue.org/wp-content/uploads/2017/05/thumbnail-3-e1495646963515.jpg",
-      "age": 3,
-      "sterilized": 0,
-      "breed": "creole",
-      "shelter": "Refugio Animal Chiclayo",
-      "created_at": "11/07/2020"
-    },
-    {
-      "id": 17,
-      "name": "Mia",
-      "sex": 1,
-      "descripton": "obedient and playful",
-      "status": "adopted",
-      "image": "https://1.bp.blogspot.com/-LBVCh1-0G_c/T1qO63CKT-I/AAAAAAAAB5s/ga0HoZHIBpg/s1600/ploo.jpg",
-      "age": 2,
-      "sterilized": 1,
-      "breed": "chipsu",
-      "shelter": "Refugio Animal Chiclayo",
-      "created_at": "01/09/2020"
-    },
-    {
-      "id": 18,
-      "name": "Rene",
-      "sex": 0,
-      "descripton": "naughty",
-      "status": "waiting for adoption",
-      "image": "https://preview.redd.it/dpc2w8wncwa51.jpg?auto=webp&s=57be93d2aace44b7b3fd0bbef57e7df2f562e755",
-      "age": 3,
-      "sterilized": 0,
-      "breed": "creole",
-      "shelter": "Refugio Animal Ferreñafe",
-      "created_at": "15/07/2019"
-    },
-    {
-      "id": 19,
-      "name": "Lia",
-      "sex": 1,
-      "descripton": "obedient",
-      "status": "adopted",
-      "image": "https://pet-uploads.adoptapet.com/a/4/9/255690874.jpg",
-      "age": 1,
-      "sterilized": 0,
-      "breed": "creole",
-      "shelter": "Refugio Animal Ferreñafe",
-      "created_at": "19/05/2020"
-    },
-    {
-      "id": 20,
       "name": "Peque",
       "sex": 1,
       "descripton": "obedient and loving",
@@ -261,7 +131,7 @@
       "created_at": "13/05/2020"
     },
     {
-      "id": 21,
+      "id": 11,
       "name": "Primi",
       "sex": 1,
       "descripton": "naughty and loving",
@@ -274,7 +144,7 @@
       "created_at": "13/05/2020"
     },
     {
-      "id": 22,
+      "id": 12,
       "name": "Peque Junior",
       "sex": 1,
       "descripton": "obedient, loving and playful",
@@ -287,7 +157,7 @@
       "created_at": "15/01/2020"
     },
     {
-      "id": 23,
+      "id": 13,
       "name": "China",
       "sex": 1,
       "descripton": "obedient",
@@ -300,7 +170,7 @@
       "created_at": "19/12/2019"
     },
     {
-      "id": 24,
+      "id": 14,
       "name": "Peluso",
       "sex": 0,
       "descripton": "naughty",
@@ -313,7 +183,7 @@
       "created_at": "03/02/2020"
     },
     {
-      "id": 25,
+      "id": 15,
       "name": "Blanco",
       "sex": 0,
       "descripton": "naughty and playful",
@@ -375,36 +245,6 @@
     {
       "id": 10,
       "created_at": "08/12/2020",
-      "validity": 1
-    },
-    {
-      "id": 11,
-      "created_at": "08/14/2020",
-      "validity": 0
-    },
-    {
-      "id": 12,
-      "created_at": "08/14/2020",
-      "validity": 1
-    },
-    {
-      "id": 13,
-      "created_at": "08/17/2020",
-      "validity": 0
-    },
-    {
-      "id": 14,
-      "created_at": "08/21/2020",
-      "validity": 0
-    },
-    {
-      "id": 15,
-      "created_at": "08/21/2020",
-      "validity": 1
-    },
-    {
-      "id": 16,
-      "created_at": "08/21/2020",
       "validity": 1
     }
   ],
