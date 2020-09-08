@@ -140,52 +140,52 @@
   "requests": {
     "data": [
       {
-        "id": "8bf2f5aa-906a-4c51-905d-8bffbaa81279",
-        "petName": "Kuky",
-        "petImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd_VvwAaAzwbhuMZyExYxrSM8goDsFxT2MXA&usqp=CAU",
+        "idRequest": "8bf2f5aa-906a-4c51-905d-8bffbaa81279",
+        "nPetPet": "Kuky",
+        "imagePet": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd_VvwAaAzwbhuMZyExYxrSM8goDsFxT2MXA&usqp=CAU",
         "description": "Todo conforme",
-        "userDni": "75394620",
-        "userName": "Luciana Ortiz",
+        "dniUser": "75394620",
+        "nameUser": "Luciana Ortiz",
         "created_at": "08/08/2020",
         "validity": 0
       },
       {
         "id": "a7ca6a5c-28e7-4419-9a54-17fa2b48319a",
-        "petName": "Peluso",
-        "petImage": "https://img.freepik.com/foto-gratis/gato-siames-radiador_41236-290.jpg?size=338&ext=jpg",
+        "namePet": "Peluso",
+        "imagePet": "https://img.freepik.com/foto-gratis/gato-siames-radiador_41236-290.jpg?size=338&ext=jpg",
         "description": "Falta revizar domicilio",
-        "userDni": "84730463",
-        "userName": "Eduardo Hurtado",
+        "dniUser": "84730463",
+        "nameUser": "Eduardo Hurtado",
         "created_at": "08/09/2020",
         "validity": 1
       },
       {
         "id": "4573e999-c588-462b-bb34-49b22263f717",
-        "petName": "Peque",
-        "petImage": "https://estaticos.elperiodico.com/resources/jpg/8/0/gato-1596592766208.jpg",
+        "namePet": "Peque",
+        "imagePet": "https://estaticos.elperiodico.com/resources/jpg/8/0/gato-1596592766208.jpg",
         "description": "Todo conforme",
-        "userDni": "76309228",
-        "userName": "Camila Martin",
+        "dniUser": "76309228",
+        "nameUser": "Camila Martin",
         "created_at": "08/09/2020",
         "validity": 0
       },
       {
         "id": "36a7d58f-8215-4d42-b581-5601762ea017",
-        "petName": "China",
-        "petImage": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/594a1ced5bafe85dfd3c9869/gato-romano_0.jpg",
+        "namePet": "China",
+        "imagePet": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/594a1ced5bafe85dfd3c9869/gato-romano_0.jpg",
         "description": "Faltan documentos por entregar",
-        "userDni": "78368379",
-        "userName": "Alejandro Martínez Vega",
+        "dniUser": "78368379",
+        "nameUser": "Alejandro Martínez Vega",
         "created_at": "08/09/2020",
         "validity": 0
       },
       {
         "id": "f2bdeaf2-906a-440b-a263-d7f4804db0f5",
-        "petName": "Coco",
-        "petImage": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/39449742/3/?bust=1513081929&width=720",
+        "namePet": "Coco",
+        "imagePet": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/39449742/3/?bust=1513081929&width=720",
         "description": "Todo conforme",
-        "userDni": "97369226",
-        "userName": "Erick Manuel Orderique",
+        "dniUser": "97369226",
+        "nameUser": "Erick Manuel Orderique",
         "created_at": "08/10/2020",
         "validity": 1
       }
@@ -196,19 +196,19 @@
   "donations": {
     "data": [
       {
-        "id": "94580caf-4d7d-4b06-a0eb-4ed65c2f7c13",
+        "idDonation": "94580caf-4d7d-4b06-a0eb-4ed65c2f7c13",
         "name": "Mateo Vasquez Villanueva",
         "description": "80 y 50 kilos de cereal de perro y gato respectivamente",
         "created_at": "08/08/2020"
       },
       {
-        "id": "c7452e5d-0c37-4b32-b723-9353545ecbe2",
+        "idDonation": "c7452e5d-0c37-4b32-b723-9353545ecbe2",
         "name": "Ángel Estela",
         "description": "100 kilos de cereal de perro.",
         "created_at": "10/08/2020"
       },
       {
-        "id": "28ef9242-1b2d-4b1c-b23a-a3961607d80a",
+        "idDonation": "28ef9242-1b2d-4b1c-b23a-a3961607d80a",
         "name": "Antonella Vílchez",
         "description": "Depósito de 300 soles",
         "created_at": "12/08/2020"
