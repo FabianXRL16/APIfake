@@ -1,156 +1,150 @@
 {
-  "pets": {
-    "data": [
-      {
-        "idPet": "Kuky-10",
-        "name": "Kuky",
-        "sex": true,
-        "description": "Cariñosa, obediente y juguetona",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd_VvwAaAzwbhuMZyExYxrSM8goDsFxT2MXA&usqp=CAU",
-        "age": 4,
-        "sterilized": false,
-        "breed": "Chipsu",
-        "idShelter":"fb4cd993-1cc4-492c-93d8-ab6681db340e",
-        "shelter": "Refugio Animal Chiclayo",
-        "created": "13 dic 2019"
-      },
-      {
-        "idPet": "Tobby-12",
-        "name": "Tobby",
-        "sex": false,
-        "description": "Muy obediente",
-        "image": "https://cde.peru.com//ima/0/1/5/5/4/1554036/611x458/cocker.jpg",
-        "age": 2,
-        "sterilized": false,
-        "breed": "Cocker",
-        "idShelter":"826b61fa-7f13-4b62-a17c-6d3db19c1f4b",
-        "shelter": "Refugio Animal Chiclayo",
-        "created": "15 jul 2019"
-      },
-      {
-        "idPet": "Toffy-32",
-        "name": "Toffy",
-        "sex": true,
-        "description": "Cariñosa",
-        "image": "https://www.eluniverso.com/sites/default/files/styles/powgallery_1024/public/fotos/2020/05/beagle-cachorro.jpg?itok=Opyqjb3U",
-        "age": 1,
-        "sterilized": true,
-        "breed": "Beagle",
-        "idShelter":"5a32d264-c51a-4c05-8b9c-e05611935f79",
-        "shelter": "Refugio Animal Pimentel",
-        "created": "21 dic 2019"
-      },
-      {
-        "idPet": "Cobbie-352",
-        "name": "Cobbie",
-        "sex": false,
-        "description": "Obediente y muy juguetona",
-        "image": "https://p0.pikist.com/photos/682/192/dog-creole-canine-game.jpg",
-        "age": 3,
-        "sterilized": false,
-        "breed": "Criolla",
-        "idShelter":"8043a6d4-4453-462d-b717-9e0e108a1f8a",
-        "shelter": "Refugio Animal Pimentel",
-        "created": "15 sep 2020"
-      },
-      {
-        "idPet": "Locky-73",
-        "name": "Locky",
-        "sex": false,
-        "description": "Muy juguetón y le agradan los niños",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schnauzer-Creole_Cross-breed_dog.jpg/640px-Schnauzer-Creole_Cross-breed_dog.jpg",
-        "age": 2,
-        "sterilized": true,
-        "breed": "Criolla",
-        "idShelter":"8a8d9d7c5-d5da-431a-9542-f0add5366557",
-        "shelter": "Refugio Animal Chiclayo",
-        "created": "26 dic 2019"
-      },
-      {
-        "idPet": "Coco-72",
-        "name": "Coco",
-        "sex": false,
-        "description": "Extremadamente jugueton y travieso",
-        "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/39449742/3/?bust=1513081929&width=720",
-        "age": 3,
-        "sterilized": false,
-        "breed": "Criolla",
-        "idShelter":"daf08236-3318-44c6-80a3-9bf01cb717d1",
-        "shelter": "Refugio Animal Pimentel",
-        "created": "12 ene 2020"
-      },
-      {
-        "idPet": "Peque-41",
-        "name": "Peque",
-        "sex": true,
-        "description": "Muy inteligente, juguetona y carioña con todas las personas",
-        "image": "https://estaticos.elperiodico.com/resources/jpg/8/0/gato-1596592766208.jpg",
-        "age": 4,
-        "sterilized": true,
-        "breed": "Criolla",
-        "idShelter":"29877e20-45cc-4e41-92d3-adb6289c533d",
-        "shelter": "Refugio Animal Chiclayo",
-        "created": "13 may 2020"
-      },
-      {
-        "idPet": "Primi-521",
-        "name": "Primi",
-        "sex": true,
-        "description": "Muy tímida, cariñosa, ama que le rasquen su cabeza",
-        "image": "https://estaticos.muyinteresante.es/media/cache/400x300_thumb/uploads/images/gallery/59426bac5bafe8dd903c986a/gato-gordo-sentado-redes.jpg",
-        "age": 4,
-        "sterilized": true,
-        "breed": "Criolla",
-        "idShelter":"427c629f-8651-4568-9447-6996cea3f07c",
-        "shelter": "Refugio Animal Chiclayo",
-        "created": "13 abr 2020"
-      },
-      {
-        "idPet": "PequeJunior-922",
-        "name": "Peque Junior",
-        "sex": true,
-        "description": "Traviesa, juguetona y muy curiosa",
-        "image": "https://www.consumer.es/wp-content/uploads/2019/07/img_gatos-encontrar-perdidos-trucos-640x480.jpg",
-        "age": 2,
-        "sterilized": true,
-        "breed": "Criolla",
-        "idShelter":"09c7d26c-f4a1-4512-8f16-37d82a407bc1",
-        "shelter": "Refugio Animal Chiclayo",
-        "created": "15 ene 2020"
-      },
-      {
-        "idPet": "China-2",
-        "name": "China",
-        "sex": true,
-        "description": "Extremadamente cariñosa, muy juguetona y amorosa con otros gatos",
-        "image": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/594a1ced5bafe85dfd3c9869/gato-romano_0.jpg",
-        "age": 3,
-        "sterilized": true,
-        "breed": "Criolla",
-        "idShelter":"69b2ea2e-c0d1-4647-817f-011e0edf2674",
-        "shelter": "Refugio Animal Chiclayo",
-        "created": "19 dic 2019"
-      },
-      {
-        "idPet": "Peluso-97",
-        "name": "Peluso",
-        "sex": false,
-        "description": "Tranquilo, y muy cariñoso",
-        "image": "https://img.freepik.com/foto-gratis/gato-siames-radiador_41236-290.jpg?size=338&ext=jpg",
-        "age": 2,
-        "sterilized": false,
-        "breed": "Siames",
-        "idShelter":"3c8cf5fe-b42a-44c0-823b-e8545959885d",
-        "shelter": "Refugio Animal Pimentel",
-        "created": "03 feb 2020"
-      }
-    ],
-    "count": 11,
-    "pages": 1
-  },
+  "pets": [{
+      "idPet": "Kuky-10",
+      "name": "Kuky",
+      "sex": true,
+      "description": "Cariñosa, obediente y juguetona",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd_VvwAaAzwbhuMZyExYxrSM8goDsFxT2MXA&usqp=CAU",
+      "age": 4,
+      "sterilized": false,
+      "breed": "Chipsu",
+      "idShelter": "fb4cd993-1cc4-492c-93d8-ab6681db340e",
+      "shelter": "Refugio Animal Chiclayo",
+      "created": "13 dic 2019"
+    },
+    {
+      "idPet": "Tobby-12",
+      "name": "Tobby",
+      "sex": false,
+      "description": "Muy obediente",
+      "image": "https://cde.peru.com//ima/0/1/5/5/4/1554036/611x458/cocker.jpg",
+      "age": 2,
+      "sterilized": false,
+      "breed": "Cocker",
+      "idShelter": "826b61fa-7f13-4b62-a17c-6d3db19c1f4b",
+      "shelter": "Refugio Animal Chiclayo",
+      "created": "15 jul 2019"
+    },
+    {
+      "idPet": "Toffy-32",
+      "name": "Toffy",
+      "sex": true,
+      "description": "Cariñosa",
+      "image": "https://www.eluniverso.com/sites/default/files/styles/powgallery_1024/public/fotos/2020/05/beagle-cachorro.jpg?itok=Opyqjb3U",
+      "age": 1,
+      "sterilized": true,
+      "breed": "Beagle",
+      "idShelter": "5a32d264-c51a-4c05-8b9c-e05611935f79",
+      "shelter": "Refugio Animal Pimentel",
+      "created": "21 dic 2019"
+    },
+    {
+      "idPet": "Cobbie-352",
+      "name": "Cobbie",
+      "sex": false,
+      "description": "Obediente y muy juguetona",
+      "image": "https://p0.pikist.com/photos/682/192/dog-creole-canine-game.jpg",
+      "age": 3,
+      "sterilized": false,
+      "breed": "Criolla",
+      "idShelter": "8043a6d4-4453-462d-b717-9e0e108a1f8a",
+      "shelter": "Refugio Animal Pimentel",
+      "created": "15 sep 2020"
+    },
+    {
+      "idPet": "Locky-73",
+      "name": "Locky",
+      "sex": false,
+      "description": "Muy juguetón y le agradan los niños",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Schnauzer-Creole_Cross-breed_dog.jpg/640px-Schnauzer-Creole_Cross-breed_dog.jpg",
+      "age": 2,
+      "sterilized": true,
+      "breed": "Criolla",
+      "idShelter": "8a8d9d7c5-d5da-431a-9542-f0add5366557",
+      "shelter": "Refugio Animal Chiclayo",
+      "created": "26 dic 2019"
+    },
+    {
+      "idPet": "Coco-72",
+      "name": "Coco",
+      "sex": false,
+      "description": "Extremadamente jugueton y travieso",
+      "image": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/39449742/3/?bust=1513081929&width=720",
+      "age": 3,
+      "sterilized": false,
+      "breed": "Criolla",
+      "idShelter": "daf08236-3318-44c6-80a3-9bf01cb717d1",
+      "shelter": "Refugio Animal Pimentel",
+      "created": "12 ene 2020"
+    },
+    {
+      "idPet": "Peque-41",
+      "name": "Peque",
+      "sex": true,
+      "description": "Muy inteligente, juguetona y carioña con todas las personas",
+      "image": "https://estaticos.elperiodico.com/resources/jpg/8/0/gato-1596592766208.jpg",
+      "age": 4,
+      "sterilized": true,
+      "breed": "Criolla",
+      "idShelter": "29877e20-45cc-4e41-92d3-adb6289c533d",
+      "shelter": "Refugio Animal Chiclayo",
+      "created": "13 may 2020"
+    },
+    {
+      "idPet": "Primi-521",
+      "name": "Primi",
+      "sex": true,
+      "description": "Muy tímida, cariñosa, ama que le rasquen su cabeza",
+      "image": "https://estaticos.muyinteresante.es/media/cache/400x300_thumb/uploads/images/gallery/59426bac5bafe8dd903c986a/gato-gordo-sentado-redes.jpg",
+      "age": 4,
+      "sterilized": true,
+      "breed": "Criolla",
+      "idShelter": "427c629f-8651-4568-9447-6996cea3f07c",
+      "shelter": "Refugio Animal Chiclayo",
+      "created": "13 abr 2020"
+    },
+    {
+      "idPet": "PequeJunior-922",
+      "name": "Peque Junior",
+      "sex": true,
+      "description": "Traviesa, juguetona y muy curiosa",
+      "image": "https://www.consumer.es/wp-content/uploads/2019/07/img_gatos-encontrar-perdidos-trucos-640x480.jpg",
+      "age": 2,
+      "sterilized": true,
+      "breed": "Criolla",
+      "idShelter": "09c7d26c-f4a1-4512-8f16-37d82a407bc1",
+      "shelter": "Refugio Animal Chiclayo",
+      "created": "15 ene 2020"
+    },
+    {
+      "idPet": "China-2",
+      "name": "China",
+      "sex": true,
+      "description": "Extremadamente cariñosa, muy juguetona y amorosa con otros gatos",
+      "image": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/594a1ced5bafe85dfd3c9869/gato-romano_0.jpg",
+      "age": 3,
+      "sterilized": true,
+      "breed": "Criolla",
+      "idShelter": "69b2ea2e-c0d1-4647-817f-011e0edf2674",
+      "shelter": "Refugio Animal Chiclayo",
+      "created": "19 dic 2019"
+    },
+    {
+      "idPet": "Peluso-97",
+      "name": "Peluso",
+      "sex": false,
+      "description": "Tranquilo, y muy cariñoso",
+      "image": "https://img.freepik.com/foto-gratis/gato-siames-radiador_41236-290.jpg?size=338&ext=jpg",
+      "age": 2,
+      "sterilized": false,
+      "breed": "Siames",
+      "idShelter": "3c8cf5fe-b42a-44c0-823b-e8545959885d",
+      "shelter": "Refugio Animal Pimentel",
+      "created": "03 feb 2020"
+    }
+  ],
   "requests": {
-    "data": [
-      {
+    "data": [{
         "idRequest": "8bf2f5aa-906a-4c51-905d-8bffbaa81279",
         "namePet": "Kuky",
         "imagePet": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd_VvwAaAzwbhuMZyExYxrSM8goDsFxT2MXA&usqp=CAU",
@@ -205,8 +199,7 @@
     "pages": 1
   },
   "donations": {
-    "data": [
-      {
+    "data": [{
         "idDonation": "94580caf-4d7d-4b06-a0eb-4ed65c2f7c13",
         "name": "Mateo Vasquez Villanueva",
         "description": "80 y 50 kilos de cereal de perro y gato respectivamente",
@@ -228,46 +221,45 @@
     "count": 4,
     "pages": 1
   },
-  "reports":{
-    "data":[
-      {
-        "createdPet":"21 jun 19",
-        "createdRequest":"30 mar 20",
-        "namePet":"Lily",
-        "agePet":2,
-        "breedPet":"Criolla",
-        "shelterPet":"Refugio Animal Chiclayo",
-        "time":9
+  "reports": {
+    "data": [{
+        "createdPet": "21 jun 19",
+        "createdRequest": "30 mar 20",
+        "namePet": "Lily",
+        "agePet": 2,
+        "breedPet": "Criolla",
+        "shelterPet": "Refugio Animal Chiclayo",
+        "time": 9
       },
       {
-        "createdPet":"12 ago 19",
-        "createdRequest":"17 may 20",
-        "namePet":"Chloe",
-        "agePet":3,
-        "breedPet":"Cocker",
-        "shelterPet":"Refugio Animal Chiclayo",
-        "time":9
+        "createdPet": "12 ago 19",
+        "createdRequest": "17 may 20",
+        "namePet": "Chloe",
+        "agePet": 3,
+        "breedPet": "Cocker",
+        "shelterPet": "Refugio Animal Chiclayo",
+        "time": 9
       },
       {
-        "createdPet":"11 ene 20",
-        "createdRequest":"15 may 20",
-        "namePet":"Koki",
-        "agePet":3,
-        "breedPet":"Criolla",
-        "shelterPet":"Refugio Animal Chiclayo",
-        "time":6
+        "createdPet": "11 ene 20",
+        "createdRequest": "15 may 20",
+        "namePet": "Koki",
+        "agePet": 3,
+        "breedPet": "Criolla",
+        "shelterPet": "Refugio Animal Chiclayo",
+        "time": 6
       },
       {
-        "createdPet":"14 sep 19",
-        "createdRequest":"10 feb 20",
-        "namePet":"Pepe",
-        "agePet":1,
-        "breedPet":"Chipsu",
-        "shelterPet":"Refugio Animal Pimentel",
-        "time":5
+        "createdPet": "14 sep 19",
+        "createdRequest": "10 feb 20",
+        "namePet": "Pepe",
+        "agePet": 1,
+        "breedPet": "Chipsu",
+        "shelterPet": "Refugio Animal Pimentel",
+        "time": 5
       }
-      ],
-      "count":4,
-    "pages":1
+    ],
+    "count": 4,
+    "pages": 1
   }
 }
