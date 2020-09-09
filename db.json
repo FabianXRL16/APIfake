@@ -11,7 +11,7 @@
         "sterilized": 0,
         "breed": "Chipsu",
         "shelter": "Refugio Animal Chiclayo",
-        "created_at": "13/12/2019"
+        "created": "13/12/2019"
       },
       {
         "idPet": "826b61fa-7f13-4b62-a17c-6d3db19c1f4b",
@@ -23,7 +23,7 @@
         "sterilized": 0,
         "breed": "Cocker",
         "shelter": "Refugio Animal Chiclayo",
-        "created_at": "15/06/2019"
+        "created": "15/06/2019"
       },
       {
         "idPet": "5a32d264-c51a-4c05-8b9c-e05611935f79",
@@ -35,7 +35,7 @@
         "sterilized": 1,
         "breed": "Beagle",
         "shelter": "Refugio Animal Pimentel",
-        "created_at": "21/12/2019"
+        "created": "21/12/2019"
       },
       {
         "idPet": "8043a6d4-4453-462d-b717-9e0e108a1f8a",
@@ -47,7 +47,7 @@
         "sterilized": 0,
         "breed": "Criolla",
         "shelter": "Refugio Animal Pimentel",
-        "created_at": "15/01/2020"
+        "created": "15/01/2020"
       },
       {
         "idPet": "a8d9d7c5-d5da-431a-9542-f0add5366557",
@@ -59,7 +59,7 @@
         "sterilized": 1,
         "breed": "Criolla",
         "shelter": "Refugio Animal Chiclayo",
-        "created_at": "26/12/2019"
+        "created": "26/12/2019"
       },
       {
         "idPet": "daf08236-3318-44c6-80a3-9bf01cb717d1",
@@ -71,7 +71,7 @@
         "sterilized": 0,
         "breed": "Criolla",
         "shelter": "Refugio Animal Pimentel",
-        "created_at": "12/06/2020"
+        "created": "12/06/2020"
       },
       {
         "idPet": "29877e20-45cc-4e41-92d3-adb6289c533d",
@@ -83,7 +83,7 @@
         "sterilized": 1,
         "breed": "Criolla",
         "shelter": "Refugio Animal Chiclayo",
-        "created_at": "13/05/2020"
+        "created": "13/05/2020"
       },
       {
         "idPet": "427c629f-8651-4568-9447-6996cea3f07c",
@@ -95,7 +95,7 @@
         "sterilized": 1,
         "breed": "Criolla",
         "shelter": "Refugio Animal Chiclayo",
-        "created_at": "13/05/2020"
+        "created": "13/05/2020"
       },
       {
         "idPet": "09c7d26c-f4a1-4512-8f16-37d82a407bc1",
@@ -107,7 +107,7 @@
         "sterilized": 1,
         "breed": "Criolla",
         "shelter": "Refugio Animal Chiclayo",
-        "created_at": "15/01/2020"
+        "created": "15/01/2020"
       },
       {
         "idPet": "69b2ea2e-c0d1-4647-817f-011e0edf2674",
@@ -119,7 +119,7 @@
         "sterilized": 1,
         "breed": "Criolla",
         "shelter": "Refugio Animal Chiclayo",
-        "created_at": "19/12/2019"
+        "created": "19/12/2019"
       },
       {
         "idPet": "3c8cf5fe-b42a-44c0-823b-e8545959885d",
@@ -131,7 +131,7 @@
         "sterilized": 0,
         "breed": "Siames",
         "shelter": "Refugio Animal Pimentel",
-        "created_at": "03/02/2020"
+        "created": "03/02/2020"
       }
     ],
     "count": 11,
@@ -146,7 +146,7 @@
         "description": "Todo conforme",
         "dniUser": "75394620",
         "nameUser": "Luciana Ortiz",
-        "created_at": "08/08/2020",
+        "created": "08/08/2020",
         "validity": 0
       },
       {
@@ -156,7 +156,7 @@
         "description": "Falta revizar domicilio",
         "dniUser": "84730463",
         "nameUser": "Eduardo Hurtado",
-        "created_at": "08/09/2020",
+        "created": "08/09/2020",
         "validity": 1
       },
       {
@@ -166,7 +166,7 @@
         "description": "Todo conforme",
         "dniUser": "76309228",
         "nameUser": "Camila Martin",
-        "created_at": "08/09/2020",
+        "created": "08/09/2020",
         "validity": 0
       },
       {
@@ -176,7 +176,7 @@
         "description": "Faltan documentos por entregar",
         "dniUser": "78368379",
         "nameUser": "Alejandro Martínez Vega",
-        "created_at": "08/09/2020",
+        "created": "08/09/2020",
         "validity": 0
       },
       {
@@ -186,7 +186,7 @@
         "description": "Todo conforme",
         "dniUser": "97369226",
         "nameUser": "Erick Manuel Orderique",
-        "created_at": "08/10/2020",
+        "created": "08/10/2020",
         "validity": 1
       }
     ],
@@ -199,22 +199,64 @@
         "idDonation": "94580caf-4d7d-4b06-a0eb-4ed65c2f7c13",
         "name": "Mateo Vasquez Villanueva",
         "description": "80 y 50 kilos de cereal de perro y gato respectivamente",
-        "created_at": "08/08/2020"
+        "created": "08/08/2020"
       },
       {
         "idDonation": "c7452e5d-0c37-4b32-b723-9353545ecbe2",
         "name": "Ángel Estela",
         "description": "100 kilos de cereal de perro.",
-        "created_at": "10/08/2020"
+        "created": "10/08/2020"
       },
       {
         "idDonation": "28ef9242-1b2d-4b1c-b23a-a3961607d80a",
         "name": "Antonella Vílchez",
         "description": "Depósito de 300 soles",
-        "created_at": "12/08/2020"
+        "created": "12/08/2020"
       }
     ],
     "count": 4,
     "pages": 1
+  },
+  "reports":{
+    "data":[
+      {
+        "createdPet":"21/06/19",
+        "createdRequest":"30/03/20",
+        "namePet":"Lily",
+        "agePet":2,
+        "breedPet":"Criolla",
+        "shelterPet":"Refugio Animal Chiclayo",
+        "time":9
+      },
+      {
+        "createdPet":"12/08/19",
+        "createdRequest":"17/05/20",
+        "namePet":"Chloe",
+        "agePet":3,
+        "breedPet":"Cocker",
+        "shelterPet":"Refugio Animal Chiclayo",
+        "time":9
+      },
+      {
+        "createdPet":"11/01/20",
+        "createdRequest":"15/05/20",
+        "namePet":"Koki",
+        "agePet":3,
+        "breedPet":"Criolla",
+        "shelterPet":"Refugio Animal Chiclayo",
+        "time":6
+      },
+      {
+        "createdPet":"14/09/19",
+        "createdRequest":"10/02/20",
+        "namePet":"Pepe",
+        "agePet":1,
+        "breedPet":"Chipsu",
+        "shelterPet":"Refugio Animal Pimentel",
+        "time":5
+      }
+      ],
+      "count":1,
+    "pages":1
   }
 }
