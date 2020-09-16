@@ -150,7 +150,7 @@
       "namePet": "Kuky",
       "imagePet": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd_VvwAaAzwbhuMZyExYxrSM8goDsFxT2MXA&usqp=CAU",
       "description": "Todo conforme",
-      "dniUser": "75394620",
+      "smartphoneUser": "987654321",
       "nameUser": "Luciana Ortiz",
       "created": "08 ago 2020",
       "validity": false
@@ -160,7 +160,7 @@
       "namePet": "Peluso",
       "imagePet": "https://img.freepik.com/foto-gratis/gato-siames-radiador_41236-290.jpg?size=338&ext=jpg",
       "description": "Falta revizar domicilio",
-      "dniUser": "84730463",
+      "smartphoneUser": "975427851",
       "nameUser": "Eduardo Hurtado",
       "created": "08 sep 2020",
       "validity": true
@@ -170,7 +170,7 @@
       "namePet": "Peque",
       "imagePet": "https://estaticos.elperiodico.com/resources/jpg/8/0/gato-1596592766208.jpg",
       "description": "Todo conforme",
-      "dniUser": "76309228",
+      "smartphoneUser": "997253720",
       "nameUser": "Camila Martin",
       "created": "08 sep 2020",
       "validity": false
@@ -180,7 +180,7 @@
       "namePet": "China",
       "imagePet": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/594a1ced5bafe85dfd3c9869/gato-romano_0.jpg",
       "description": "Faltan documentos por entregar",
-      "dniUser": "78368379",
+      "smartphoneUser": "985406342",
       "nameUser": "Alejandro Martínez Vega",
       "created": "08 sep 2020",
       "validity": false
@@ -190,7 +190,7 @@
       "namePet": "Coco",
       "imagePet": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/39449742/3/?bust=1513081929&width=720",
       "description": "Todo conforme",
-      "dniUser": "97369226",
+      "smartphoneUser": "977397390",
       "nameUser": "Erick Manuel Orderique",
       "created": "08 oct 2020",
       "validity": true
