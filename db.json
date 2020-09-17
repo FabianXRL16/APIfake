@@ -1,6 +1,5 @@
 {
-  "pets": [
-    {
+  "pets": [{
       "idPet": "Kuky-10",
       "name": "Kuky",
       "sex": true,
@@ -144,60 +143,58 @@
       "created": "03 feb 2020"
     }
   ],
-  "requests": [
-    {
-      "idRequest": "8bf2f5aa-906a-4c51-905d-8bffbaa81279",
+  "requests": [{
+      "idUser": 1,
+      "idPet": "Kuky-10",
       "namePet": "Kuky",
       "imagePet": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd_VvwAaAzwbhuMZyExYxrSM8goDsFxT2MXA&usqp=CAU",
       "description": "Todo conforme",
       "phone": "987654321",
-      "nameUser": "Luciana Ortiz",
-      "created": "08 ago 2020",
-      "validity": false
+      "fullname": "Luciana Ortiz",
+      "created": "08 ago 2020"
     },
     {
-      "id": "a7ca6a5c-28e7-4419-9a54-17fa2b48319a",
+      "idUser": 2,
+      "idPet": "Peluso-97",
       "namePet": "Peluso",
       "imagePet": "https://img.freepik.com/foto-gratis/gato-siames-radiador_41236-290.jpg?size=338&ext=jpg",
       "description": "Falta revizar domicilio",
       "phone": "975427851",
-      "nameUser": "Eduardo Hurtado",
-      "created": "08 sep 2020",
-      "validity": true
+      "fullname": "Eduardo Hurtado",
+      "created": "08 sep 2020"
     },
     {
-      "id": "4573e999-c588-462b-bb34-49b22263f717",
+      "idUser": 3,
+      "idPet": "Peque-41",
       "namePet": "Peque",
       "imagePet": "https://estaticos.elperiodico.com/resources/jpg/8/0/gato-1596592766208.jpg",
       "description": "Todo conforme",
       "phone": "997253720",
-      "nameUser": "Camila Martin",
-      "created": "08 sep 2020",
-      "validity": false
+      "fullname": "Camila Martin",
+      "created": "08 sep 2020"
     },
     {
-      "id": "36a7d58f-8215-4d42-b581-5601762ea017",
+      "idUser": 4,
+      "idPet": "China-2",
       "namePet": "China",
       "imagePet": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/594a1ced5bafe85dfd3c9869/gato-romano_0.jpg",
       "description": "Faltan documentos por entregar",
       "phone": "985406342",
-      "nameUser": "Alejandro Martínez Vega",
-      "created": "08 sep 2020",
-      "validity": false
+      "fullname": "Alejandro Martínez Vega",
+      "created": "08 sep 2020"
     },
     {
-      "id": "f2bdeaf2-906a-440b-a263-d7f4804db0f5",
+      "idUser": 5,
+      "idPet": "Coco-72",
       "namePet": "Coco",
       "imagePet": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/39449742/3/?bust=1513081929&width=720",
       "description": "Todo conforme",
       "phone": "977397390",
-      "nameUser": "Erick Manuel Orderique",
-      "created": "08 oct 2020",
-      "validity": true
+      "fullname": "Erick Manuel Orderique",
+      "created": "08 oct 2020"
     }
   ],
-  "donations": [
-    {
+  "donations": [{
       "idDonation": "94580caf-4d7d-4b06-a0eb-4ed65c2f7c13",
       "name": "Mateo Vasquez Villanueva",
       "description": "80 y 50 kilos de cereal de perro y gato respectivamente",
@@ -216,8 +213,7 @@
       "created": "12 ago 2020"
     }
   ],
-  "reports": [
-    {
+  "reports": [{
       "createdPet": "21 jun 19",
       "createdRequest": "30 mar 20",
       "namePet": "Lily",
