@@ -155,7 +155,14 @@
           "phone": "987654321",
           "fullname": "Luciana Ortiz",
           "created": "08 ago 2020"
-        },
+        }
+      ]
+    },
+    {
+      "idPet": "Peluso-97",
+      "namePet": "Peluso",
+      "imagePet": "https://img.freepik.com/foto-gratis/gato-siames-radiador_41236-290.jpg?size=338&ext=jpg",
+      "applicants": [
         {
           "idUser": 2,
           "phone": "987296473",
@@ -171,9 +178,9 @@
       ]
     },
     {
-      "idPet": "Peluso-97",
-      "namePet": "Peluso",
-      "imagePet": "https://img.freepik.com/foto-gratis/gato-siames-radiador_41236-290.jpg?size=338&ext=jpg",
+      "idPet": "Peque-41",
+      "namePet": "Peque",
+      "imagePet": "https://estaticos.elperiodico.com/resources/jpg/8/0/gato-1596592766208.jpg",
       "applicants": [
         {
           "idUser": 4,
@@ -190,58 +197,15 @@
       ]
     },
     {
-      "idPet": "Peque-41",
-      "namePet": "Peque",
-      "imagePet": "https://estaticos.elperiodico.com/resources/jpg/8/0/gato-1596592766208.jpg",
-      "applicants": [
-        {
-          "idUser": 5,
-          "phone": "997253720",
-          "fullname": "Camila Fernandez Eslava",
-          "created": "09 sep 2020"
-        },
-        {
-          "idUser": 6,
-          "phone": "978788352",
-          "fullname": "Javier Chávez",
-          "created": "09 sep 2020"
-        }
-      ]
-    },
-    {
       "idPet": "China-2",
       "namePet": "China",
       "imagePet": "https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/594a1ced5bafe85dfd3c9869/gato-romano_0.jpg",
       "applicants": [
         {
-          "idUser": 7,
-          "phone": "985406342",
-          "fullname": "Alejandra Ruíz Vega",
+          "idUser": 6,
+          "phone": "978788352",
+          "fullname": "Javier Chávez",
           "created": "09 sep 2020"
-        },
-        {
-          "idUser": 8,
-          "phone": "975427851",
-          "fullname": "Sol Ayala",
-          "created": "09 sep 2020"
-        },
-        {
-          "idUser": 9,
-          "phone": "975454745",
-          "fullname": "Marcelo Velásquez",
-          "created": "09 sep 2020"
-        },
-        {
-          "idUser": 10,
-          "phone": "978575421",
-          "fullname": "Kiara Oyola",
-          "created": "10 sep 2020"
-        },
-        {
-          "idUser": 11,
-          "phone": "985542177",
-          "fullname": "Juan Antonio Soto",
-          "created": "10 sep 2020"
         }
       ]
     },
