@@ -154,7 +154,8 @@
           "idUser": 1,
           "phone": "987654321",
           "fullname": "Luciana Ortiz",
-          "created": "08 ago 2020"
+          "created": "08 ago 2020",
+          "address": "La victoria cuadra 8"
         }
       ]
     },
@@ -167,13 +168,15 @@
           "idUser": 2,
           "phone": "987296473",
           "fullname": "Alejandro Martines",
-          "created": "08 ago 2020"
+          "created": "08 ago 2020",
+          "address": "Torres Paz N° 102"
         },
         {
           "idUser": 3,
           "phone": "985386230",
           "fullname": "Fernanda Villanueva López",
-          "created": "09 ago 2020"
+          "created": "09 ago 2020",
+          "address": "Urb Los Sauces Mz M Lt 10"
         }
       ]
     },
@@ -186,13 +189,15 @@
           "idUser": 4,
           "phone": "975427851",
           "fullname": "Ricardo Hurtado",
-          "created": "08 sep 2020"
+          "created": "08 sep 2020",
+          "address": "Santa Victoria Mz J Lt 19"
         },
         {
           "idUser": 5,
           "phone": "973625541",
           "fullname": "Emily Hernandez Paz",
-          "created": "08 sep 2020"
+          "created": "08 sep 2020",
+          "address": "Patasca y Jurimaguas Dptm. 404"
         }
       ]
     },
@@ -205,7 +210,8 @@
           "idUser": 6,
           "phone": "978788352",
           "fullname": "Javier Chávez",
-          "created": "09 sep 2020"
+          "created": "09 sep 2020",
+          "address": "Residencial Galilea N° 102"
         }
       ]
     },
@@ -218,13 +224,15 @@
           "idUser": 12,
           "phone": "977397390",
           "fullname": "Enrique Torres",
-          "created": "08 oct 2020"
+          "created": "08 oct 2020",
+          "address": "Residencial Louisiana Dptm. 201"
         },
         {
           "idUser": 13,
           "phone": "990773973",
           "fullname": "Erick Orderique Masa",
-          "created": "08 oct 2020"
+          "created": "08 oct 2020",
+          "address": "Urb. Monterrico Mz H Lt 7"
         }
       ]
     }
